@@ -1,0 +1,7 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/myStyleSheet.uss?fileID=7433441132597879392&amp;guid=c16284b9558d17643b39f9d81a5900b4&amp;type=3#myStyleSheet" />
+    <Style src="project://database/Assets/sheet2.uss?fileID=7433441132597879392&amp;guid=0d84da7ad82f1494189dfe60d7b49669&amp;type=3#sheet2" />
+    <ui:VisualElement style="height: 768px; opacity: 1; background-image: url(&apos;project://database/Assets/LikeAWeed.png?fileID=2800000&amp;guid=e59f2f2d704224e4bb0aa7b94e1cd15e&amp;type=3#LikeAWeed&apos;); background-color: rgb(255, 255, 255); width: 1366px;">
+        <ui:Scroller high-value="100" direction="Horizontal" value="50" />
+    </ui:VisualElement>
+</ui:UXML>
